@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "754041251965",
+    "project_id": "wide-cargo-464504-j8",
+    "storage_bucket": "wide-cargo-464504-j8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754041251965:android:2e2e266c335cc53d77e914",
+        "android_client_info": {
+          "package_name": "icedo.hector.practica10_icedohector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754041251965-k98rg16mt2d59a3cddbekn2qvv0es94k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "icedo.hector.practica10_icedohector",
+            "certificate_hash": "bc9313403c96415d98b798950d9d128ab243e48e"
+          }
+        },
+        {
+          "client_id": "754041251965-gkl289ip6qhtnqmsej4n6cm5r7nd51q4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMWxMjyvCfdW__u-BuLB1WMCPUam9VHvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754041251965-gkl289ip6qhtnqmsej4n6cm5r7nd51q4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
